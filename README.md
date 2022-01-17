@@ -12,4 +12,4 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 "Necu vise matematiku, odoh na programiranje" - matematicki intervju 2017 IS Petnica, dogovor izmedju mene i Djikica
+- 🔭 "Necu vise matematiku, odoh na programiranje" - matematicki intervju 2018 IS Petnica, dogovor izmedju mene i Djikica
