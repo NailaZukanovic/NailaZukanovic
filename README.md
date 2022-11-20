@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 "Necu vise matematiku, odoh na programiranje" - matematicki intervju 2018 IS Petnica, dogovor izmedju mene i Marka Djikica
+- 🔭 Sve je public, as it should be
 
 -Angular
 -React
