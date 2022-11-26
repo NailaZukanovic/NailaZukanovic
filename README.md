@@ -12,7 +12,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Sve je public, as it should be
+- 🔭 Sve je public, as it should be 
+
+-Javni repositorijumi sa projektima sa Dunpa. Dobrodosli. Sve kopirajte slobodno
 
 -Angular
 -React
