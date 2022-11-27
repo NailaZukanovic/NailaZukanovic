@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 -Javni repositorijumi sa projektima sa Dunpa. Dobrodosli. Sve kopirajte slobodno
 
+-Edina Dolicanina predmeti su namerno losi jer hocu 6, ne jurim prosek <3
+-------------------------------------------------------------------------
+
 -Angular
 -React
 -React Native
